@@ -19,6 +19,12 @@ floating point slices work similarly, including if the step is a float
 Note: this means the number of elements of a slice of a cursed\_list can be *more* than the length of the 
       original cursed\_list object. 
 
+---
+
+![cursed list demo screenshot](cursed_python.png)
+
+---
+
 ### Limitations:
 Can only assign to cursed\_list slices as if it were a normal list; no floats
 
