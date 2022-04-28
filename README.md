@@ -2,7 +2,7 @@
 
 ---
 
-### install: `pip install cursed_datatypes`
+### install: `pip install cursed-datatypes`
 
 ### import: `from cursed_datatypes.cursed_datatypes import cursed_list`
 
