@@ -1,11 +1,23 @@
+Metadata-Version: 2.1
+Name: cursed-datatypes
+Version: 0.0.3
+Summary: "list-like datatype alowing floating point indices and slices"
+Home-page: https://github.com/lukeroantree4815162342/cursed_datatypes/
+Author: Luke Roantree
+Author-email: luke@roantree.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/lukeroantree4815162342/cursed_datatypes/issues/
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 ## cursed\_dataypes is a library offering cursed variations of standard Python datatypes (so far limited to cursed\_list)
 
 ---
-
-### install: `pip install cursed_datatypes`
-
-### import: `from cursed_datatypes.cursed_datatypes import cursed_list`
-
 
 ### What is cursed about this list?
 
@@ -39,5 +51,7 @@ Can't handle complex number indices - I have no idea what that should even look 
 You probably shouldn't, definitely not for anything serious. 
 
 The whole point of this is to be like nails on a chalkboard for programmers.
+
+
 
 
