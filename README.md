@@ -4,10 +4,10 @@
 
 ### install: `pip install cursed-datatypes`
 
-### import: `from cursed_datatypes.cursed_datatypes import cursed_list`
+### import: `from cursed_datatypes import cursed_list, cursed_tuple`
 
 
-### What is cursed about this list?
+### What is cursed about these datatypes?
 
 well, you know how you absolutely never thought "I wonder what element 2.345 of this list is"? 
 
@@ -23,6 +23,8 @@ floating point slices work similarly, including if the step is a float
 
 Note: this means the number of elements of a slice of a cursed\_list can be *more* than the length of the 
       original cursed\_list object. 
+
+cursed\_tuple works similarly, except it is immutable.
 
 ---
 
