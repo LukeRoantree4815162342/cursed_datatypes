@@ -1,4 +1,4 @@
-## cursed\_dataypes is a library offering cursed variations of standard Python datatypes (so far limited to cursed\_list)
+## cursed\-dataypes is a library offering cursed variations of standard Python datatypes (so far limited to cursed\_list & cursed\_tuple)
 
 ---
 
